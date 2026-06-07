@@ -17,8 +17,8 @@ This dashboard analyzes global terrorism incidents, trends, regions, and attack 
 
 ### Tools Used
 -Power BI
-Excel
-DAX
+-Excel
+-DAX
 -------
 ## Author
 
