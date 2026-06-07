@@ -16,9 +16,9 @@ This dashboard analyzes sales performance, revenue, profit, and key business met
 This dashboard analyzes global terrorism incidents, trends, regions, and attack patterns.
 
 ### Tools Used
--Power BI
--Excel
--DAX
+- Power BI
+- Excel
+- DAX
 -------
 ## Author
 
