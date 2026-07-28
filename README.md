@@ -47,10 +47,11 @@ This dashboard analyzing FIFA World Cup tournaments (1930 - 2014) featuring cham
 ###Overview
 This dashboard analyzing commercial electricity consumption across Indian states, featuring executive analysis, state-wise insights, regional analysis, trend visualization, table and interactive reporting
 
-##Tool Used
+###Tool Used
 -Power BI
 -Excel
 -Data visualization
+-------------------
 ## Author
 
 A. Jenson Belix Paul
