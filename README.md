@@ -64,7 +64,7 @@ This project is an interactive Power BI dashboard built using IPL data from 2008
 -Season-wise Match Trend Analysis
 -Top venue by Matches
 -Toss Decision Distribution
--Interactive Team and aseason Filters
+-Interactive Team and a season Filters
 
 ### Tool Used
 -Power BI
