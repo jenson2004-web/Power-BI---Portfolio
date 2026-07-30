@@ -52,6 +52,25 @@ This dashboard analyzing commercial electricity consumption across Indian states
 -Excel
 -Data visualization
 -------------------
+
+
+## Project 6: IPL Champion Analysis (2008- 2026)
+
+### Overview
+This project is an interactive Power BI dashboard built using IPL data from 2008 to 2026.
+
+## Features
+-Total Matches, Seasons, Teams, and cities KPI
+-Season-wise Match Trend Analysis
+-Top venue by Matches
+-Toss Decision Distribution
+-Interactive Team and aseason Filters
+
+### Tool Used
+-Power BI
+-Power Query
+-DAX
+-Data Modeling
 ## Author
 
 A. Jenson Belix Paul
