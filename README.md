@@ -71,6 +71,28 @@ This project is an interactive Power BI dashboard built using IPL data from 2008
 -Power Query
 -DAX
 -Data Modeling
+-----------------------
+
+### Project: E-Commerce Sales Dashboard Analysis
+This project presents an interactive E-commerce Sales Analysis dashboard created using Microsoft Excel. The dataset was cleaned, organized, and analyzed using Pivot Tables, Pivot Charts, and Excel functions to generate meaningful business insights.
+
+###Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+
+##Key Insights
+
+- Total Sales Analysis
+- Sales by Product Category
+- Regional Sales Performance
+- Payment Method Analysis
+- Monthly Sales Trends
+- Customer Order Summary
+
+This dashboard helps users analyze sales performance, identify trends, and support data-driven business decisions through interactive Excel reporting.
 ## Author
 
 A. Jenson Belix Paul
