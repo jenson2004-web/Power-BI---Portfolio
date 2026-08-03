@@ -73,7 +73,7 @@ This project is an interactive Power BI dashboard built using IPL data from 2008
 -Data Modeling
 -----------------------
 
-### Project: E-Commerce Sales Dashboard Analysis
+### Project 7: E-Commerce Sales Dashboard Analysis
 This project presents an interactive E-commerce Sales Analysis dashboard created using Microsoft Excel. The dataset was cleaned, organized, and analyzed using Pivot Tables, Pivot Charts, and Excel functions to generate meaningful business insights.
 
 ###Tools Used
@@ -91,8 +91,38 @@ This project presents an interactive E-commerce Sales Analysis dashboard created
 - Payment Method Analysis
 - Monthly Sales Trends
 - Customer Order Summary
-
 This dashboard helps users analyze sales performance, identify trends, and support data-driven business decisions through interactive Excel reporting.
+----------------------------
+ Project 8: Hospital Management Analysis Dashboard
+ ## Project Overview 
+ This Power BI project provides a comprehensive analysis of hospital operations, helping healthcare organizations monitor patient information, doctor performance, billing, and treatment insights through interactive dashboards.
+ 
+ ## Dashboard Pages 
+ - Hospital Management Dashboard
+ - Patient Analysis
+ - Doctor Profile & Performance
+ - Billing & Treatment Analysis
+   
+ - ## Key Features
+ - Interactive KPI Cards
+ - Dynamic Slicers & Filters
+ - Patient Demographics Analysis
+ - Doctor Performance Analysis
+ - Billing & Revenue Analysis
+ - Treatment Insights
+ - Interactive Charts & Tables
+  ## Tools & Technologies
+ - Power BI
+ - Power Query
+ - DAX
+ - Data Modeling
+ - Data Cleaning
+   ## Key Insights
+ - Analyze hospital revenue and billing trends.
+ - Monitor patient demographics and healthcare insights.
+ - Evaluate doctor specialization and experience.
+ - Track treatment distribution and payment methods
+   ---------------------------------------
 ## Author
 
 A. Jenson Belix Paul
