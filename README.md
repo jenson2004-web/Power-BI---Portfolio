@@ -123,6 +123,35 @@ This dashboard helps users analyze sales performance, identify trends, and suppo
  - Evaluate doctor specialization and experience.
  - Track treatment distribution and payment methods
    ---------------------------------------
+   ## Project 9: HR ANALYTICS DASHBOARD
+   ## 📌 Project Overview This HR Analytics Dashboard was developed using Tableau to analyze employee data and provide meaningful insights into workforce trends.
+   The dashboard helps HR teams monitor employee attrition, workforce demographics, and key performance indicators through interactive visualizations.
+
+    ## 🎯 Objectives
+    - Analyze employee attrition trends
+    - Monitor active employees and workforce distribution
+    - Identify attrition by department, education, age, and gender
+    - Support HR decision-making with data-driven insights
+
+    ## 📊 Key KPIs
+   - Total Employees
+   - Active Employees
+   - Attrition Count
+   - Attrition Rate
+   - Average Employee Age
+
+    ## 📈 Dashboard Features
+    - Department-wise Attrition Analysis
+    - Education-wise Attrition
+     - Age Group Distribution
+     - Gender-wise Employee Analysis
+    - Interactive Filters and Visualizations
+      
+    - ## 🛠️ Tools Used
+    - Tableau
+    - Microsoft Excel
+    - Data Cleaning
+    - Data Visualization ## 📁
 ## Author
 
 A. Jenson Belix Paul
