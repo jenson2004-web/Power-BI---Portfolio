@@ -152,6 +152,39 @@ This dashboard helps users analyze sales performance, identify trends, and suppo
     - Microsoft Excel
     - Data Cleaning
     - Data Visualization ## 📁
+  
+    - # Financial Transaction Analysis Dashboard
+
+## Project Overview
+This Power BI dashboard provides an interactive analysis of financial transactions, helping users understand transaction values, customer segments, transaction trends, fees, taxes, and transaction performance.
+
+## Key KPIs
+- Total Amount: 455.40M
+- Total Transactions: 50,000
+- Average Transaction: 9,108
+- Total Fees: 726.03K
+- Total Tax: 130.74K
+
+## Dashboard Insights
+- Customer transaction value by segment
+- Transaction value trends from 2023 to 2026
+- Transaction value contribution by gender
+- Successful, failed, and pending transactions
+- State-wise transaction value comparison
+- Transaction amount, fees, and tax by transaction type
+
+## Tools & Technologies
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+
+## Objective
+The main objective of this project is to transform financial transaction data into meaningful visual insights that support better business analysis and decision-making.
+
+## Conclusion
+This dashboard helps identify transaction patterns, high-performing customer segments and states, transaction status performance, and the financial impact of different transaction types.
 ## Author
 
 A. Jenson Belix Paul
