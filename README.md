@@ -185,6 +185,49 @@ The main objective of this project is to transform financial transaction data in
 
 ## Conclusion
 This dashboard helps identify transaction patterns, high-performing customer segments and states, transaction status performance, and the financial impact of different transaction types.
+----------------------------------------------------------------------------------------------
+Meta Ads Performance Analysis Dashboard
+
+An interactive Power BI dashboard designed to analyze and monitor Meta (Facebook & Instagram) advertising performance. The dashboard provides insights into campaign effectiveness, audience engagement, ad performance, and key advertising KPIs.
+
+Key Features
+
+- 📊 Campaign and ad performance analysis
+- 👥 Target audience and age-group engagement analysis
+- 📈 Engagement and performance trends over time
+- 🎯 Analysis of impressions, clicks, shares, comments, and engagement
+- 💰 KPI-based performance monitoring
+- 📅 Calendar-based engagement trend analysis
+- 🔍 Interactive filters for deeper analysis
+- 📌 Dynamic KPI cards and visualizations
+
+Tools & Technologies
+
+- Power BI
+- DAX
+- Power Query
+- Data Cleaning & Transformation
+- Data Visualization
+
+Key KPIs
+
+- Impressions
+- Clicks
+- Engagement Rate
+- Shares
+- Comments
+- Audience Engagement
+- Campaign Performance
+
+Objective
+
+The main objective of this project is to transform Meta advertising data into meaningful and actionable insights, helping users understand which campaigns, audiences, and ads perform best and identify opportunities to improve advertising effectiveness.
+
+Project Outcome
+
+This dashboard demonstrates practical skills in data analysis, data visualization, DAX, Power Query, KPI development, and business intelligence using Power BI.
+
+
 ## Author
 
 A. Jenson Belix Paul
